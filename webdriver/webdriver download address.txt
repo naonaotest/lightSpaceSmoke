@@ -1,0 +1,8 @@
+chrome的webdriver： http://chromedriver.storage.googleapis.com/index.html
+
+Firefox驱动下载地址为：https://github.com/mozilla/geckodriver/releases/
+
+IE浏览器驱动下载地址为：http://selenium-release.storage.googleapis.com/index.html
+
+
+https://blog.csdn.net/weixin_42540349/article/details/81320832
